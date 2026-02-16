@@ -36,3 +36,52 @@ This repository will be updated periodically as my wallpaper collection evolves.
 ## License
 
 Each wallpaper may have different original licensing terms.  all rights are reserved. For wallpapers from other sources, original copyrights remain with their respective creators. This repository serves only as a personal backup collection.
+
+---
+
+## Wallpaper Collection Organization
+
+The collection is organized into three main categories:
+
+### Minimalist Folder (12 files)
+*Abstract, pixel art, and minimalist aesthetic wallpapers*
+
+- Abyss.png
+- AstralStatic.jpg
+- Cipher.png
+- Drift.png
+- Echo.png
+- JJkmodulo.png
+- Neon.png
+- PixelNoir.jpg
+- Pulse.png
+- Static.png
+- Void.png
+- staticrunetvibe.jpg
+
+**Note:** Some file names in this folder may not perfectly match the actual image content, as they were renamed from random identifiers.
+
+### Nature Folder (4 files)
+*Landscape, forest, sky, and natural scenery wallpapers*
+
+- horizon.jpg
+- melancholic_skull_meadow.jpg
+- SkyHorizon.jpg
+- totoro-autumn-forest-cozy-desktop-wallpaper-4k.jpg
+
+**Note:** These files have more descriptive names that better reflect their content.
+
+### Other Folder (38 files)
+*Cyberpunk, space, anime, glitch art, and miscellaneous wallpapers*
+
+Ascend.jpg, Aurora.jpg, Chrono.jpg, cyberpunk_egderunners.jpg, DeepSpaceMood.png, Echo_Dark.jpg, Eclipse.jpg, edgerunnes_moon.png, Essence.jpg, Frost.jpg, Glitch.jpg, Infinity.jpg, LunarEcho.jpg, Lunar.jpg, Messy-Room.jpg, MidnightNC.jpg, miku.gif, Mirage.jpg, Mystic.png, Nebula.jpg, Nexus.jpg, Obsidian.jpg, Phantom.png, Radiance.jpg, Raven.jpg, Shimmer.jpg, Solace.jpg, Surge.jpg, Twilight.png, Vapor.jpg, Vesper.jpg, Void_Space.jpg, Vortex.png, wallhaven-dg7oxl.jpg, Zenith.jpg
+
+**Note:** Most files in this folder were renamed from random identifiers to simple, cool names. The actual visual content may or may not match the file names exactly. Please verify by viewing the images directly.
+
+### Summary
+- **Total Wallpapers:** 54 files
+- **Minimalist:** 12 files
+- **Nature:** 4 files  
+- **Other:** 38 files
+
+**Important Disclaimer:** Due to the original random naming convention and renaming process, some file names may not accurately describe the actual image content. It is recommended to view the images directly to verify their content.
